@@ -1,0 +1,17 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "command line program to find artists and songs",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Morgan Dorfman",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "0.18.0",
+    "dotenv": "7.0.0",
+    "moment": "2.24.0",
+    "node-spotify-api": "1.0.7"
+  }
+}
